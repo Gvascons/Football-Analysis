@@ -1,0 +1,600 @@
+jogador,nacao,posicao,idade,minPor90,gols,assist
+Juninho, BRA,LT,34,14.7,0,1
+Marlon Freitas, BRA,LT,27,15.4,2,3
+Lucas Kal, BRA,LT,26,13.3,0,0
+Jefferson, BRA,ZG,25,14.1,1,1
+Éverson, BRA,G,31,17.0,0,0
+Kevin, BRA,ZG,24,16.8,1,1
+Gatito Fernández, PAR,G,34,14.0,0,0
+Cleiton Schwengber, BRA,G,24,17.0,0,0
+Cássio, BRA,G,35,15.0,0,0
+João Ricardo Riedi, BRA,G,33,15.0,0,0
+Luciano Castán, BRA,ZG,32,16.0,0,0
+Eder, BRA,ZG,27,14.0,0,1
+Ronaldo, BRA,G,25,15.0,0,0
+Júnior Alonso, PAR,ZG,29,15.4,0,2
+Bruno Cortez, BRA,ZG,35,16.0,0,0
+Erison, BRA,AT,23,13.4,6,1
+Luan Cândido, BRA,ZG,21,12.1,3,2
+Du Queiroz, BRA,LT,22,14.5,0,2
+Messias, BRA,ZG,27,14.0,0,0
+Igor Paixão, BRA,LT,22,14.2,4,4
+Patric Cabral Lalau, BRA,ZG,33,13.6,0,0
+Jorginho, BRA,LT,31,13.1,3,0
+Hulk, BRA,AT,35,13.9,7,2
+Raniele, BRA,"LT,ZG",25,14.7,1,0
+Kanu, BRA,ZG,25,13.3,0,0
+Natan, BRA,ZG,21,12.0,2,0
+Raul Bicalho, BRA,ZG,23,14.5,1,0
+Richard, BRA,LT,28,12.2,0,1
+Henrique, BRA,ZG,35,13.9,0,0
+Felipe Azevedo, BRA,LT,35,12.2,2,0
+Ramon Menezes Roma, BRA,ZG,27,14.0,0,0
+Ignacio Fernández, ARG,LT,32,13.2,3,3
+Arthur Chaves, BRA,ZG,21,14.5,0,0
+Renzo Saravia, ARG,"ZG,LT",29,12.7,0,1
+Artur, BRA,LT,24,11.5,3,4
+Roger Guedes, BRA,AT,25,12.2,5,1
+Bruno Pacheco, BRA,ZG,30,12.4,1,1
+Willian Farias, BRA,LT,33,13.3,0,0
+Jailson, BRA,G,40,12.0,0,0
+Wellington Rato, BRA,"LT,AT",30,13.6,4,0
+Allan, BRA,LT,25,12.7,0,0
+Bruno Silva, BRA,LT,35,14.4,0,0
+Víctor Cuesta, ARG,ZG,33,12.6,1,1
+Aderlan Silva, BRA,ZG,31,11.4,0,1
+Gil, BRA,ZG,35,11.3,0,0
+Stiven Mendoza, COL,"AT,LT",30,11.5,7,0
+Alex Muralha, BRA,G,32,12.0,0,0
+Marlon, BRA,"ZG,LT",28,10.5,0,0
+Edson, BRA,"ZG,LT",31,13.3,0,0
+Guilherme Arana, BRA,ZG,25,11.3,0,2
+Guilherme Bissoli, BRA,AT,24,13.5,8,0
+Luis Oyama, BRA,LT,25,10.6,0,0
+Lucas Evangelista, BRA,LT,27,10.8,1,1
+Rafael Ramos, POR,ZG,27,9.9,0,1
+Vinícius, BRA,"AT,LT",31,11.3,1,2
+Alef Manga, BRA,LT,27,10.8,2,2
+Ale, BRA,LT,32,9.4,1,1
+Gabriel Baralhas, BRA,LT,23,11.7,1,0
+Jair, BRA,LT,27,10.1,1,2
+Eduardo de Biasi, BRA,LT,25,11.8,1,1
+Daniel Borges, BRA,ZG,29,10.7,1,2
+Leo Ortiz, BRA,ZG,26,10.4,1,0
+Gustavo Mantuan, BRA,"LT,AT",21,9.6,3,1
+Lima, BRA,"LT,AT",26,10.4,2,0
+Matheus Alexandre, BRA,ZG,23,11.2,0,0
+Germán Conti, ARG,ZG,28,10.2,0,0
+Hayner, BRA,ZG,26,11.0,0,2
+Nathan Silva, BRA,ZG,25,9.2,0,0
+Muriqui, BRA,"AT,LT",36,8.5,4,0
+João Victor Santos Sá, BRA,"LT,AT",28,10.0,1,0
+Raul, BRA,LT,26,9.0,0,0
+Adson, BRA,"LT,AT",21,8.7,2,0
+Richardson, BRA,LT,30,9.2,0,0
+Léo Gamalho, BRA,AT,36,10.3,6,0
+Everaldo, BRA,LT,28,7.7,0,2
+Diego Churín, ARG,AT,32,10.4,3,0
+Guga, BRA,"ZG,LT",23,8.9,0,0
+Bressan, BRA,ZG,29,10.9,0,0
+Hugo, BRA,"LT,ZG",20,9.6,1,0
+Helinho, BRA,LT,22,8.0,1,1
+Renato Augusto, BRA,LT,34,8.4,1,0
+Gabriel Lacerda, BRA,ZG,23,10.3,0,0
+Guilherme Biro, BRA,ZG,22,6.3,0,0
+Aloísio dos Santos Gonçalves, CHN,AT,34,6.9,2,0
+Wanderson, BRA,ZG,31,9.0,0,0
+Rubens, BRA,"ZG,LT",21,9.4,1,0
+Douglas Friedrich, BRA,G,33,10.4,0,0
+Vinícius, BRA,"AT,LT",23,8.5,2,0
+Marcos Vinicios Sorriso, BRA,LT,21,7.9,2,1
+Lucas Piton, BRA,"ZG,LT",21,8.8,1,3
+Rodrigo Lindoso, BRA,LT,33,8.7,0,1
+Thonny Anderson, BRA,LT,24,5.9,0,0
+Iago Maidana, BRA,ZG,26,4.8,3,0
+Airton, BRA,LT,23,8.1,2,2
+Ademir Santos, BRA,"LT,AT",27,8.9,1,0
+William Pottker, BRA,"LT,AT",28,9.2,1,1
+Patrick de Paula, BRA,LT,22,8.0,1,0
+Ytalo, BRA,AT,34,6.9,3,0
+Fábio Santos, BRA,"ZG,LT",36,7.8,1,0
+Michel, BRA,ZG,32,7.9,0,1
+Egídio Pereira Júnior, BRA,ZG,36,7.5,0,2
+Pedrinho, BRA,"LT,AT",22,6.2,1,1
+Shaylon, BRA,LT,25,7.8,0,0
+Mariano, BRA,ZG,36,8.2,0,1
+Morato, BRA,"AT,LT",29,7.3,2,1
+Lucas Fernandes, BRA,LT,24,7.3,0,1
+Hyoran, BRA,LT,29,6.4,3,2
+Willian, BRA,"AT,LT",33,7.6,0,2
+Luiz Otávio, BRA,ZG,33,7.8,1,0
+Fabrício, BRA,LT,25,5.5,0,2
+Luan Patrick, BRA,ZG,20,5.2,0,0
+Luiz Fernando, BRA,LT,25,7.0,0,1
+Eduardo Sasha, BRA,"AT,LT",30,7.2,3,0
+Vladimir, BRA,G,33,6.5,0,0
+Philipe Sampaio, BRA,ZG,27,6.8,0,0
+Jadsom, BRA,LT,21,7.1,0,1
+Víctor Cantillo, COL,LT,28,6.6,0,0
+Nino Paraíba, BRA,ZG,36,9.4,1,0
+Andrey Ramos do Nascimento, BRA,LT,24,5.4,3,0
+Gustavinho, BRA,LT,20,3.6,0,0
+Leo Augusto Pereira, BRA,LT,22,8.2,1,1
+Federico Zaracho, ARG,LT,24,6.2,2,1
+Jean Cléber, BRA,LT,32,5.2,0,0
+Tchê Tchê, BRA,LT,29,6.6,0,0
+Alerrandro, BRA,AT,22,6.3,5,0
+Maycon, BRA,LT,25,5.4,0,0
+Erick, BRA,"AT,LT",24,6.8,1,0
+Adrián Martínez, ARG,AT,30,5.9,4,1
+Henrique Almeida, BRA,AT,31,4.5,1,0
+Luis Eduardo Marques dos Santos, BRA,ZG,25,4.7,0,1
+Keno, BRA,"LT,AT",32,5.6,0,1
+Rodrigo, BRA,ZG,24,3.3,0,0
+Chayene Santos, BRA,"LT,AT",31,6.5,0,0
+Bruno Praxedes, BRA,LT,20,5.0,1,2
+Giuliano de Paula, BRA,LT,32,7.0,0,1
+Cléber, BRA,"AT,LT",25,6.3,3,0
+Valdemir, BRA,LT,25,5.1,0,1
+Matheus Cavichioli, BRA,G,35,4.0,0,0
+Edson, BRA,"LT,ZG",24,4.0,0,0
+Eduardo Vargas, CHI,"LT,AT",32,5.3,1,2
+Jonathan Copete, COL,AT,34,3.1,0,0
+Diego Gonçalves, BRA,"LT,ZG",27,5.4,2,0
+Eric Ramires, BRA,LT,21,6.4,0,0
+João Victor, BRA,ZG,24,5.4,0,0
+Fernando Sobral, BRA,LT,27,4.6,0,0
+Rafael William, BRA,G,20,5.0,0,1
+João Paulo, BRA,ZG,36,3.9,0,0
+Luan Polli, BRA,G,29,2.0,0,0
+Otávio, BRA,LT,28,7.2,0,0
+Rafael Vaz, BRA,ZG,33,2.1,0,0
+Lucas Piazon, BRA,"LT,AT",28,4.5,0,0
+José Hurtado, ECU,ZG,20,5.4,0,1
+Júnior Moraes, UKR,AT,35,4.5,0,0
+Victor Luis, BRA,ZG,29,5.5,0,0
+Guillermo de los Santos, URU,ZG,31,4.6,0,0
+Paulinho, BRA,AT,24,3.2,0,1
+Arthur Henrique, BRA,ZG,28,2.0,0,0
+Réver, BRA,ZG,37,5.1,1,0
+Nonoca, BRA,LT,24,1.8,0,0
+Joel Carli, ARG,ZG,35,4.0,0,1
+Kevin Lomónaco, ARG,ZG,20,5.1,0,0
+Bruno Melo, BRA,"ZG,LT",29,4.1,0,0
+Iury de Castilho, BRA,"LT,AT",26,4.7,0,1
+Matías Galarza, PAR,LT,20,4.0,0,0
+Raúl Cáceres, PAR,ZG,30,4.2,1,1
+Lucas Lima, BRA,LT,22,1.3,0,0
+Igor Rabello, BRA,ZG,27,3.7,0,1
+Vinícius Leite, BRA,LT,28,1.5,0,0
+Gustavo Sauer, BRA,LT,29,2.5,0,0
+Bruno Tubarão, BRA,LT,27,5.0,0,0
+Robson Bambu, BRA,ZG,24,2.9,0,0
+Zé Roberto, BRA,AT,28,4.5,0,1
+Bernanrdo Lemes, BRA,LT,20,4.2,0,0
+Matheusinho, BRA,LT,24,3.6,0,0
+Rickson, BRA,LT,24,0.8,0,0
+Sávio, BRA,LT,18,2.4,1,0
+Dentinho, BRA,AT,25,3.2,0,0
+Romildo Del Piage, BRA,LT,22,5.0,0,0
+Leonardo Realpe, ECU,ZG,21,4.0,0,0
+Paulinho, BRA,LT,33,1.8,1,0
+Geovane, BRA,LT,23,3.7,0,0
+Régis, BRA,LT,29,3.4,0,0
+Danilo Avelar, BRA,ZG,33,2.9,0,0
+Leandro Barcia, URU,"AT,LT",29,0.3,0,0
+Calebe, BRA,LT,22,2.0,0,0
+Jean Pyerre, BRA,LT,24,3.0,1,0
+Kayque, BRA,LT,22,3.1,1,0
+Ramon, BRA,ZG,21,4.0,0,0
+Gustavo Mosquito, BRA,"LT,AT",24,3.3,1,1
+Lucas Ribeiro, BRA,"LT,ZG",23,2.3,1,0
+Robinho, BRA,LT,34,5.3,0,0
+Juan Pablo Ramírez, COL,"LT,AT",24,3.3,1,1
+Gabriel Noga, BRA,ZG,20,0.0,0,0
+Guilherme Carvalho, BRA,LT,22,1.6,0,0
+Renato, BRA,LT,32,2.2,0,0
+Matheus Nascimento, BRA,AT,18,3.6,0,0
+Miguel Silveira, BRA,"LT,AT",19,3.4,1,2
+Budiga Roni, BRA,LT,23,3.3,0,0
+Matheus Peixoto, BRA,AT,26,2.8,0,1
+Clayton, BRA,AT,23,3.6,0,0
+Zé Ricardo, BRA,LT,26,2.6,0,0
+Jean Bonora, BRA,AT,19,17.0,17,11
+Diego Godín, URU,ZG,36,1.0,0,0
+Matheus Galdezani, BRA,LT,30,1.5,0,0
+Diego, BRA,G,23,2.0,0,0
+Jan Carlos Hurtado, VEN,AT,22,3.4,0,0
+Matheus Donelli, BRA,G,20,2.0,0,0
+Vinícius Machado, BRA,G,22,2.0,0,0
+Diego Porfirio, BRA,ZG,22,3.2,0,0
+Rodriguinho, BRA,LT,19,2.1,0,0
+Michel Custódio, BRA,ZG,21,17.0,21,13
+Jefferson Savarino, VEN,LT,25,1.0,2,0
+Marcinho, BRA,AT,27,1.4,0,0
+Willian Klaus, BRA,ZG,28,1.0,0,0
+Renan, BRA,ZG,20,3.2,0,0
+Robert Renan, BRA,ZG,18,2.0,0,0
+Marcos Victor, BRA,ZG,20,1.1,0,0
+Natanael, BRA,ZG,20,3.0,0,0
+Wellington Paulista, BRA,AT,38,2.2,0,0
+Fábio, BRA,AT,25,0.7,0,0
+Diego Matos, BRA,ZG,25,1.0,0,0
+Douglas Borges, BRA,G,32,1.0,0,0
+Carlos Eduardo, BRA,LT,25,2.6,0,0
+Bruno Méndez, URU,"LT,ZG",22,1.4,0,0
+Wescley, BRA,LT,30,0.8,0,0
+Nathan, BRA,ZG,19,1.5,0,0
+Airton Moraes, BRA,G,28,1.0,0,0
+Carlos Daniel, BRA,ZG,20,17.0,23,17
+Rômulo, BRA,"AT,LT",27,1.8,0,0
+Maranhão, BRA,LT,20,1.0,0,0
+Guilherme Almeida Augusto, BRA,ZG,29,1.0,0,0
+Jô, BRA,AT,35,2.2,1,0
+Kelvyn, BRA,ZG,23,0.6,0,0
+Warley, BRA,"LT,ZG",22,1.0,0,0
+Carlos Alberto, BRA,AT,20,1.4,0,0
+Dodô, BRA,ZG,30,17.0,17,13
+Vitinho, BRA,LT,21,0.3,0,0
+Jonathan, BRA,ZG,24,0.5,0,0
+Weverson, BRA,LT,22,0.5,0,0
+Giovane, BRA,AT,18,2.0,0,0
+Dentinho, BRA,"AT,LT",33,0.4,0,0
+Hugo, BRA,LT,22,2.1,1,0
+Arthur, BRA,ZG,19,0.6,0,0
+Gustavo Santos, BRA,AT,20,0.2,0,0
+Jefferson, BRA,LT,22,0.8,0,0
+Welliton, BRA,AT,22,0.6,0,0
+Xavier, BRA,LT,22,1.3,0,0
+João Victor, BRA,AT,18,0.2,0,0
+Márcio Silva, BRA,ZG,21,1.0,0,0
+Gustavo Marques, BRA,ZG,20,0.5,0,0
+Matheus Ribeiro, BRA,ZG,28,0.2,0,0
+Lucas Mezenga, BRA,ZG,20,0.3,0,0
+Nathan Camargo, BRA,LT,16,0.2,0,0
+João Pedro, BRA,ZG,25,1.3,0,0
+Léo Rafael, BRA,LT,21,0.1,0,0
+Neílton, BRA,LT,28,0.9,0,0
+Kawê, BRA,AT,20,0.3,0,0
+Glédson, BRA,G,39,0.0,0,0
+Marllon Borges, BRA,ZG,30,15.0,0,0
+Barreto, BRA,LT,26,0.3,0,0
+Gabriel Novaes, BRA,AT,23,0.2,0,0
+Guilherme Biro, BRA,AT,18,0.8,0,0
+David, BRA,LT,18,17.0,18,9
+Luiz Gabriel, BRA,LT,20,0.4,0,0
+Flávio, BRA,LT,22,0.3,0,0
+Paulo Baya, BRA,LT,22,17.0,19,4
+Walter, BRA,G,34,14.0,0,0
+Daniel Cruz, BRA,AT,21,0.1,0,0
+Bruno, BRA,AT,19,17.0,26,18
+Felipe Augusto, BRA,AT,18,0.8,0,0
+Pedro Igor, BRA,AT,20,17.0,18,14
+Pablo Javier García, URU,LT,23,0.1,0,0
+Juninho, BRA,LT,36,0.2,0,0
+Felipe Camargo, BRA,ZG,23,17.0,27,15
+Uendel, BRA,ZG,33,13.6,1,1
+Rikelmi, BRA,AT,20,0.0,0,0
+Júlio César, BRA,G,37,17.0,19,8
+Fagner, BRA,ZG,33,0.4,0,0
+Thalisson Gabriel, BRA,ZG,20,17.0,20,13
+Robson, BRA,G,22,17.0,12,9
+Gabriel Barbosa, BRA,AT,25,12.9,5,0
+João Lucas, BRA,ZG,24,13.5,0,0
+Breno, BRA,LT,21,17.0,16,7
+Wesley Ribeiro, BRA,LT,17,0.1,0,0
+Maicky, BRA,LT,21,17.0,26,17
+Everton Ribeiro, BRA,"LT,AT",33,12.3,1,2
+João Pedro Pepê, BRA,LT,24,10.4,0,0
+Igo Gabriel, BRA,G,20,17.0,22,14
+Matheus Araújo, BRA,LT,20,17.0,17,12
+Ayrton Lucas, BRA,ZG,25,10.9,1,1
+Alan Empereur, BRA,ZG,28,10.0,0,0
+Breno, BRA,LT,18,17.0,17,12
+Giorgian De Arrascaeta, URU,LT,28,10.9,2,5
+Rafael Gava, BRA,LT,29,9.0,0,1
+João Gomes, BRA,LT,21,10.2,0,1
+Valdívia, BRA,"LT,AT",27,8.3,2,0
+Matheuzinho, BRA,"ZG,LT",21,10.3,0,1
+Fábio, BRA,G,41,17.0,0,0
+Felipe Marques, BRA,"LT,AT",32,7.5,0,1
+Willian Arão, BRA,"LT,ZG",29,10.2,2,0
+Germán Cano, ARG,AT,34,14.9,10,1
+Marcelo, BRA,ZG,26,15.6,0,0
+André, BRA,AT,31,6.5,2,0
+Hugo Souza, BRA,G,23,10.0,0,0
+Tadeu, BRA,G,30,17.0,0,0
+André, BRA,LT,21,13.5,1,1
+Moises, BRA,"AT,LT",25,12.6,3,1
+Camilo, BRA,LT,23,8.3,0,0
+Thiago Maia, BRA,"LT,ZG",25,8.9,0,0
+Dieguinho, BRA,"LT,ZG",26,13.8,0,2
+Daniel, BRA,G,28,16.0,0,0
+Ganso, BRA,LT,32,11.1,2,1
+Yago Pikachu, BRA,LT,30,13.4,4,0
+André Luis, BRA,"LT,AT",25,7.2,1,0
+Andreas Pereira, BRA,LT,26,8.8,2,1
+Murilo Cerqueira, BRA,ZG,25,14.5,1,0
+Reynaldo Cesar Moraes, BRA,ZG,25,13.6,0,0
+Edenílson, BRA,LT,32,13.4,3,1
+Manoel, BRA,ZG,32,12.0,3,1
+Titi, BRA,ZG,34,12.9,0,0
+Rodriguinho Marinho, BRA,"AT,LT",34,7.2,1,0
+Pablo, BRA,ZG,31,7.6,0,0
+Zé Rafael, BRA,LT,29,13.5,3,1
+João Paulo, BRA,G,27,16.0,0,0
+Pedro Raul, BRA,AT,25,12.4,8,0
+Fabricio Bustos, ARG,ZG,26,12.7,1,2
+Luiz Henrique, BRA,"LT,AT",21,11.7,2,3
+Juninho Capixaba, BRA,"LT,ZG",25,12.6,0,2
+Alesson, BRA,LT,23,5.2,2,0
+David Luiz, BRA,"ZG,LT",35,7.3,0,0
+Jandrei, BRA,G,29,16.3,0,0
+Dudu, BRA,"LT,AT",30,13.2,3,1
+Vinícius Zanocelo, BRA,LT,21,13.0,3,0
+Caetano, BRA,ZG,23,12.3,0,0
+Gabriel, BRA,LT,30,13.3,0,0
+Samuel Xavier, BRA,ZG,32,11.5,1,2
+Lucas Lima, BRA,"LT,AT",32,10.3,0,2
+Éverton, BRA,LT,33,4.4,1,0
+Bruno Henrique, BRA,"LT,AT",31,6.8,1,2
+Jonathan Calleri, ARG,AT,28,15.4,9,1
+Wéverton, BRA,G,34,14.0,0,0
+Eduardo Gabriel, BRA,ZG,26,15.0,1,1
+Adailson Dadá, BRA,"LT,ZG",25,12.1,0,0
+Carlos de Pena, URU,LT,30,12.6,2,2
+Nino, BRA,ZG,25,11.4,0,0
+Felipe, BRA,LT,28,9.6,0,1
+Paulão, BRA,ZG,36,4.4,0,0
+Rodrigo Caio, BRA,ZG,28,6.5,0,0
+Igor Gomes, BRA,LT,23,14.8,0,2
+Rony, BRA,AT,27,13.0,7,0
+Rodrigo Fernández, URU,LT,26,13.6,0,0
+Caio Vinícius, BRA,LT,23,10.4,0,0
+Vitão, BRA,ZG,22,11.0,1,0
+Jhon Arias, COL,"LT,AT",24,10.0,1,3
+Marcelo Boeck, BRA,G,37,10.0,0,0
+Kelvin Osorio, COL,LT,28,3.6,0,0
+Pedro, BRA,AT,25,7.0,2,2
+Léo Pelé, BRA,ZG,26,13.1,0,0
+Gustavo Scarpa, BRA,"LT,AT",28,12.4,3,5
+Marcos Leonardo, BRA,AT,19,12.9,6,1
+Elvis Vieira Araújo, BRA,"LT,AT",31,9.4,4,2
+Gabriel Mercado, ARG,ZG,35,10.9,0,0
+Wellington Martins, BRA,LT,31,6.9,0,1
+José Welison, BRA,LT,27,10.0,2,0
+Marcão Silva, BRA,LT,31,4.9,0,0
+Lázaro, BRA,LT,20,4.9,0,2
+Diego, BRA,ZG,22,13.3,0,0
+Danilo, BRA,LT,21,11.8,1,0
+Léo Baptistão, BRA,"LT,AT",29,11.0,4,1
+Matheus Sales, BRA,"LT,AT",27,10.1,0,0
+Wanderson, BRA,"LT,AT",27,8.0,4,0
+David Braz, BRA,ZG,35,5.9,0,0
+Brayan Ceballos, COL,ZG,21,9.8,0,0
+Jenison, BRA,AT,31,3.3,1,0
+Léo Pereira, BRA,ZG,26,4.9,0,0
+Rafinha, BRA,"ZG,LT",36,12.0,0,2
+Gustavo Gómez, PAR,ZG,29,11.0,6,0
+Lucas, BRA,ZG,21,11.9,0,0
+Danilo Barcelos, BRA,"ZG,LT",30,8.2,0,1
+Renê, BRA,ZG,29,9.0,0,0
+Caio Paulista, BRA,ZG,24,8.2,0,3
+Silvio Romero, ARG,AT,33,7.9,0,2
+Joaquim, BRA,ZG,23,3.0,1,0
+Vitinho, BRA,"AT,LT",28,4.5,0,0
+Rodrigo Nestor, BRA,LT,21,11.0,1,0
+Joaquín Piquerez, URU,ZG,23,10.1,0,1
+Maicon, BRA,ZG,33,11.2,0,2
+Apodi, BRA,"LT,AT",35,7.5,1,1
+David, BRA,AT,26,7.6,0,2
+Yago, BRA,"LT,ZG",27,6.3,0,0
+Hércules, BRA,LT,21,7.4,1,0
+Cristian Rivas, VEN,LT,25,2.4,0,0
+Santos, BRA,G,32,4.0,0,0
+Luciano, BRA,"AT,LT",29,8.6,6,0
+Marcos Rocha, BRA,ZG,33,9.5,0,1
+Mádson, BRA,ZG,30,10.6,0,1
+Vinícius, BRA,"AT,LT",28,7.5,0,1
+Alan Patrick, BRA,"LT,AT",31,6.1,2,2
+Nonato, BRA,LT,24,6.8,0,2
+Lucas Crispim, BRA,"LT,ZG",28,6.6,0,0
+Élton Rodrigues Brandão, BRA,AT,36,3.3,1,0
+Mauricio Isla, CHI,"ZG,LT",34,3.8,1,0
+Patrick, BRA,"LT,AT",29,8.7,3,1
+Raphael Veiga, BRA,LT,27,8.2,1,3
+Jhojan Julio, ECU,"LT,AT",24,8.3,0,2
+Fellipe Bastos, BRA,LT,32,7.6,0,1
+Moisés, BRA,ZG,27,5.6,2,1
+Matheus Martins, BRA,LT,19,4.7,2,0
+Romarinho, BRA,"AT,LT",28,5.8,2,2
+Igor Cariús, BRA,ZG,29,2.4,0,0
+Filipe Luís, BRA,ZG,36,3.6,0,0
+Welington, BRA,"ZG,LT",21,9.2,0,2
+Luan Garcia, BRA,ZG,29,6.5,0,1
+Lucas Braga, BRA,"LT,ZG",25,10.0,1,0
+Maguinho, BRA,"ZG,LT",29,6.5,0,0
+Rodrigo Moledo, BRA,ZG,34,5.1,0,0
+Nathan, BRA,"LT,AT",26,3.5,0,1
+Anthony Landazuri, ECU,ZG,25,5.8,0,0
+Daniel Guedes, BRA,ZG,28,2.4,0,0
+Marinho, BRA,"LT,AT",32,4.6,1,1
+Robert Arboleda, ECU,ZG,30,8.0,0,0
+Gabriel Veron, BRA,"LT,AT",19,5.6,0,3
+Felipe Jonatan, BRA,"ZG,LT",24,6.0,0,0
+Da Silva, BRA,ZG,21,6.3,1,0
+Mauricio, BRA,"LT,AT",21,5.4,0,1
+Matheus Martinelli, BRA,LT,21,3.4,0,1
+Robson, BRA,AT,31,5.5,2,1
+Marquinhos, BRA,LT,25,2.2,0,1
+Gustavo Henrique, BRA,ZG,29,3.8,1,0
+Pablo Maia, BRA,"LT,ZG",20,7.7,0,0
+Jorge, BRA,ZG,26,4.9,0,0
+Emiliano Velázquez, URU,ZG,28,6.0,0,0
+Sidimar, BRA,ZG,30,5.0,0,0
+Rodrigo Dourado, BRA,LT,28,5.0,0,0
+Luccas Claro, BRA,ZG,30,4.7,0,0
+Jussa, BRA,LT,26,5.4,0,1
+João Carlos, BRA,G,34,2.0,0,0
+Rodinei, BRA,"ZG,LT",30,3.0,0,1
+Reinaldo, BRA,LT,32,6.2,1,1
+Gabriel Menino, BRA,LT,21,4.2,0,0
+Guilherme Camacho, BRA,LT,32,4.8,0,0
+Yan Souto, BRA,ZG,20,5.0,0,0
+Alexandre Alemão, BRA,AT,24,6.1,3,1
+Willian, BRA,"LT,AT",35,3.4,0,1
+Max Walef, BRA,G,28,5.0,0,0
+Jonathan Cafu, BRA,LT,31,1.6,0,0
+Diego Alves, BRA,G,37,3.0,0,0
+Alisson, BRA,"LT,AT",29,6.3,0,1
+Rafael Navarro, BRA,AT,22,6.0,0,1
+Brayan Angulo, ECU,"LT,AT",26,4.5,1,1
+Sidnei, BRA,ZG,32,3.3,0,0
+Pedro Henrique, BRA,"LT,AT",32,5.5,1,1
+Lucas Felipe Calegari, BRA,"LT,ZG",20,3.4,0,0
+Matheus de Vargas, BRA,LT,26,3.9,0,0
+Vinicius Melo, BRA,G,23,16.0,13,4
+Victor Hugo, BRA,LT,18,2.3,0,0
+Igor Vinícius de Souza, BRA,LT,25,6.1,0,1
+Mayke, BRA,"ZG,LT",29,4.0,0,0
+Ricardo Goulart, BRA,LT,31,4.5,0,0
+Nicolas, BRA,AT,32,5.0,2,1
+Taison, BRA,"LT,AT",34,5.4,1,1
+Cristiano da Silva Leite, BRA,"ZG,LT",28,3.1,0,1
+Ronald, BRA,LT,25,3.8,0,0
+Gustavo Nescau, BRA,AT,22,16.0,16,10
+Diego, BRA,LT,37,1.9,1,0
+Miranda, BRA,ZG,37,6.0,0,0
+Wesley, BRA,LT,23,3.3,1,1
+Ângelo Borges, BRA,LT,17,3.9,0,2
+Auremir, BRA,LT,30,2.6,0,0
+Bruno Méndez, URU,ZG,22,4.8,1,0
+Marlon, BRA,"ZG,LT",25,3.0,0,0
+Guilherme Tinga, BRA,ZG,28,3.1,0,0
+Fabrício Bruno, BRA,ZG,26,1.0,0,0
+Éder, ITA,"AT,LT",35,5.6,1,0
+Marcelo Lomba, BRA,G,35,2.0,0,0
+Auro, BRA,ZG,26,3.5,0,0
+Hugo, BRA,ZG,24,2.0,0,0
+Wesley Moraes, BRA,AT,25,3.3,0,0
+Mario Pineida, ECU,ZG,30,3.0,0,0
+Habraão, BRA,ZG,21,2.1,1,0
+Matheus França, BRA,LT,18,0.8,0,0
+Gabriel Neves, URU,LT,24,2.8,0,0
+Breno, BRA,LT,26,2.2,0,0
+Sandry, BRA,LT,19,4.2,0,1
+Juan Pablo, BRA,"LT,ZG",20,1.4,0,0
+Heitor, BRA,ZG,21,3.5,0,0
+Fred, BRA,AT,38,1.4,1,0
+Fernando Miguel, BRA,G,37,2.0,0,0
+Marcos Paulo, BRA,ZG,19,0.3,0,0
+Andrés Colorado, COL,LT,23,2.0,0,0
+Benjamín Kuscevic, CHI,ZG,26,1.1,0,1
+Rwan, BRA,"LT,AT",21,4.1,2,0
+Henrique Lordelo, BRA,LT,22,1.0,0,0
+Johnny Cardoso, USA,LT,20,3.4,1,1
+Felipe Melo, BRA,"ZG,LT",39,2.6,0,0
+Vitor Ricardo, BRA,LT,22,1.3,0,0
+Daniel Cabral, BRA,LT,20,17.0,20,19
+Nikão, BRA,"LT,AT",29,2.2,1,0
+Eduard Atuesta, COL,LT,25,2.0,0,0
+Carlos Sánchez, URU,LT,37,1.6,0,0
+Renato Junior, BRA,AT,20,2.1,0,1
+Kaique Rocha, BRA,ZG,21,3.2,0,0
+John Kennedy, BRA,AT,20,1.3,0,0
+Renato Kayser, BRA,"AT,LT",26,1.8,0,0
+Cleiton, BRA,ZG,19,17.0,16,8
+César Reis, BRA,G,27,17.0,0,0
+Talles Costa, BRA,LT,19,2.1,0,0
+García, BRA,ZG,20,1.0,0,0
+Bruno Oliveira, BRA,LT,24,3.0,0,1
+Luan Dias, BRA,AT,24,1.4,0,0
+Liziero, BRA,"LT,ZG",24,2.7,0,0
+Alexandre Jesus, BRA,AT,20,0.6,0,0
+Valentín Depietri, ARG,LT,21,1.4,0,0
+Jadson, BRA,LT,28,15.4,1,0
+Anderson Lima, BRA,LT,22,1.8,0,0
+Fabinho, BRA,LT,20,0.8,0,0
+Willian Maranhão, BRA,LT,26,1.8,0,0
+Matheus Santos, BRA,LT,23,0.1,0,0
+Thauan Lara, BRA,"LT,ZG",18,1.8,0,0
+David Duarte, BRA,ZG,27,0.4,0,0
+Igor Torres, BRA,AT,22,0.1,0,0
+Rafael Forster, BRA,ZG,31,15.1,0,0
+Luan, BRA,LT,23,1.0,0,0
+Kaiky Naves, BRA,LT,20,0.4,0,0
+Luis Felipe, BRA,ZG,28,1.0,0,0
+Pedro Oliveira, BRA,LT,18,1.5,0,0
+Caio Vidal, BRA,LT,21,1.7,0,0
+Muriel Becker, BRA,G,35,17.0,23,22
+David, BRA,AT,22,0.0,0,0
+Rodrigo Alves Soares, BRA,ZG,29,13.2,1,0
+Emiliano Rigoni, ARG,LT,29,2.7,0,0
+Jailson Siqueira, BRA,LT,26,0.2,0,0
+John, BRA,G,26,1.0,0,0
+Luan, BRA,"AT,LT",31,0.5,0,0
+Keiller, BRA,G,25,1.0,0,0
+Marcos Felipe, BRA,G,26,17.0,16,9
+Alix, BRA,ZG,22,17.0,15,12
+Chico, BRA,LT,31,11.2,0,2
+Luizão, BRA,ZG,20,1.6,0,0
+Giovani, BRA,AT,18,0.2,0,0
+Kaiky, BRA,ZG,18,1.0,0,0
+Luis Silva, BRA,AT,21,0.4,0,0
+Matheus Cadorini, BRA,AT,19,1.0,0,0
+Ángelo Henríquez, CHI,AT,28,17.0,19,14
+Yuri Oliveira Lima, BRA,LT,27,10.9,0,0
+Patryck, BRA,ZG,19,0.3,0,0
+Gabriel Vieira, BRA,AT,20,0.1,0,0
+Lucas Barbosa, BRA,LT,21,1.5,1,0
+Pedro Bahia, BRA,LT,20,0.3,0,0
+Andrés D'Alessandro, ARG,AT,41,0.8,1,0
+Isidro Pitta, PAR,AT,22,10.0,1,0
+Thiago, BRA,G,23,0.7,0,0
+Vanderlan, BRA,ZG,19,0.1,0,0
+Gabriel Pirani, BRA,LT,20,0.5,0,0
+Vitor Hugo, BRA,AT,18,0.0,0,0
+Gabriel Boschilia, BRA,LT,26,0.6,0,1
+William Matheus, BRA,ZG,32,8.8,0,0
+Gabriel, BRA,LT,23,0.5,0,0
+Pedro Bicalho, BRA,LT,21,0.0,0,0
+Marcos Guilherme, BRA,"AT,LT",26,0.3,0,0
+Danilo Batista, BRA,LT,20,17.0,16,10
+Estevão, BRA,AT,20,0.4,0,0
+Vitor Mendes, BRA,ZG,23,7.9,1,0
+Marquinhos, BRA,AT,19,0.3,0,0
+Lucas Freitas, BRA,ZG,21,16.0,26,19
+Vinicius, BRA,LT,23,0.0,0,0
+Lincon, BRA,LT,20,17.0,19,13
+Lucas Ramos, BRA,LT,21,0.0,0,0
+Ricardo Bueno, BRA,AT,34,7.8,2,0
+Jonas, BRA,LT,23,0.3,0,1
+Jhonatan Jowjow, BRA,LT,19,16.0,12,4
+Diogenes, BRA,G,21,17.0,19,13
+Anthoni, BRA,G,20,17.0,23,16
+Jean, BRA,LT,27,7.7,0,0
+João Moreira, POR,ZG,18,0.1,0,0
+Kevyson, BRA,LT,18,17.0,15,8
+Matheus Dias, BRA,LT,25,17.0,15,10
+Capixaba, BRA,"LT,AT",25,6.8,0,0
+Rodrigo, BRA,LT,18,0.0,0,0
+Óscar Ruiz, PAR,"AT,LT",31,6.3,3,0
+Lucas Beraldo, BRA,ZG,18,17.0,22,12
+Thalisson Kelven, BRA,ZG,24,6.7,0,0
+Caio Matheus, BRA,AT,22,17.0,18,12
+Paulo Henrique, BRA,"LT,ZG",25,5.9,1,0
+Moraes, BRA,ZG,24,5.0,1,0
+Paulo Miranda, BRA,ZG,33,4.7,0,0
+Paulinho Moccelin, BRA,LT,28,4.3,0,1
+Busanello, BRA,ZG,23,3.2,0,2
+Marlon, BRA,"LT,AT",32,1.7,0,0
+Vitor Gabriel, BRA,AT,22,4.3,1,0
+Guilherme Parede, BRA,"LT,AT",26,3.1,0,1
+Edinho, BRA,LT,27,2.9,0,1
+Romulo, BRA,ZG,22,1.9,1,0
+Darlan Mendes, BRA,LT,24,1.3,0,0
+Bruninho, BRA,AT,22,1.3,0,0
+Elton, BRA,LT,32,0.5,0,0
+Gabriel Neris, BRA,LT,20,0.1,0,0
+Felipe Alves Raymundo, BRA,G,34,17.0,13,7
+Danilo Boza, BRA,ZG,24,17.0,26,21
